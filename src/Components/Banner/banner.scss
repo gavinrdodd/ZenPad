@@ -7,16 +7,16 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
 
-.bannerTitle {
-  font-size: 10em;
-  font-weight: 1;
-}
+  &Title {
+    font-size: 10em;
+    font-weight: 1;
+  }
 
-.bannerCopy {
-  font-size: 1.5em;
-  font-weight: 100;
+  &Copy {
+    font-size: 1.5em;
+    font-weight: 100;
+  }
 }
 
 .zenpadLogo {
