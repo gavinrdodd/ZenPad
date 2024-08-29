@@ -1,0 +1,24 @@
+.banner {
+  width: 100%;
+  padding: 32px;
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+  box-shadow: 0 8px 6px -6px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bannerTitle {
+  font-size: 10em;
+  font-weight: 1;
+}
+
+.bannerCopy {
+  font-size: 1.5em;
+  font-weight: 100;
+}
+
+.zenpadLogo {
+  max-height: 200px;
+}
