@@ -4,7 +4,8 @@ function DescriptionCard() {
   return (
     <div className="descriptionCard">
       <span className="descriptionTitle">Why does this webpage exist...</span>
-      <span className="descriptionCopy">This website was created to be a launching point for my web development learning journey. So as I learn new techniques or just want to practice something, you will see it here. I have currently layed it our in card from and will title each card to label the reason for the card. I may change this in the future as I don't want to bx myself in design wise, it just made sense to start this way...</span>
+      <span className="descriptionCopy"> This website serves as a launching pad for my web development learning journey. As I explore new techniques and practice different skills, you'll see them reflected here.</span>
+      <span className="descriptionCopy"> The current card-based layout is just the beginning—I may experiment with other designs in the future to keep my creative options open. This format felt like a natural starting point, but it's not set in stone...</span>
     </div>
   );
 }
