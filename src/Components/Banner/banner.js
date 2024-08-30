@@ -4,8 +4,8 @@ function Banner() {
   return (
     <div className="banner">
       <img src="images/zenpadLogo.svg" alt="ZenPadLogo. Img" className="zenpadLogo"></img>
-      <span className="bannerTitle">ZenPad</span>
-      <span className="bannerCopy">Exploring web development, one project at a time.</span>
+      <p className="bannerTitle">ZenPad</p>
+      <p className="bannerCopy">Exploring web development, one project at a time.</p>
     </div>
   );
 }
