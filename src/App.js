@@ -5,10 +5,12 @@ import "./app.scss";
 
 function App() {
   return (
-    <div className="pageCards">
+    <div className="landingPage">
       <Banner />
-      <ProfileCard />
-      <DescriptionCard />
+      <div className="pageCards">
+        <ProfileCard />
+        <DescriptionCard />
+      </div>
     </div>
   );
 }
